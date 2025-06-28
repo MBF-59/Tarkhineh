@@ -3,14 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "server": "json-server --watch src/server/db.json --port 5000 ",
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
-  },
+"scripts": {
+  "server": "json-server --watch src/server/db.json --port 5000 ",
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+,
   "dependencies": {
     "@tanstack/react-query": "^5.75.1",
     "@tanstack/react-query-devtools": "^5.75.1",
