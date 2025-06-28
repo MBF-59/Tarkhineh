@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MBF-59.github.io/Tarkhineh",
+
   "scripts": {
 
     "server": "json-server --watch src/server/db.json --port 5000 ",
@@ -11,7 +11,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-"predeploy": "npm run build",
 "deploy": "gh-pages -d dist"
   },
   "dependencies": {
@@ -46,5 +45,5 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17",
     "vite": "^6.2.0"
-  }
+  },"homepage": "https://MBF-59.github.io/Tarkhineh"
 }
