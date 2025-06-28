@@ -1,0 +1,2772 @@
+{
+  "Home": {
+    "photo": [
+      {
+        "id": 1,
+        "title": "بشقاب غذای گرم و خوشمزه",
+        "image": "/public/photo/image (16).svg"
+      },
+      {
+        "id": 2,
+        "title": "پاستا با پستو و گوجه تازه",
+        "image": "/public/photo/image (17).svg"
+      },
+      {
+        "id": 3,
+        "title": "میوه‌های تازه در کاسه چوبی",
+        "image": "/public/photo/image (18).svg"
+      },
+      {
+        "id": 4,
+        "title": "فنجانی از قهوه داغ",
+        "image": "/public/photo/image (19).svg"
+      },
+      {
+        "id": 5,
+        "title": "سوشی ژاپنی در بشقاب سفید",
+        "image": "/public/photo/image (21).svg"
+      }
+    ],
+    "HomeMenu": [
+      {
+        "id": 7,
+        "title": "غذای اصلی",
+        "image": "/public/photo/HomeMenu/image (22).svg"
+      },
+      {
+        "id": 8,
+        "title": "پیش غذا",
+        "image": "/public/photo/HomeMenu/image (24).svg"
+      },
+      {
+        "id": 9,
+        "title": "دسر",
+        "image": "/public/photo/HomeMenu/image (25).svg"
+      },
+      {
+        "id": 100,
+        "title": "نوشیدنی",
+        "image": "/public/photo/HomeMenu/image (26).svg"
+      }
+    ]
+  },
+  "HomeMenu": [
+    {
+      "id": "11",
+      "title": "غذای اصلی",
+      "image": "/public/photo/HomeMenu/image (22).svg"
+    },
+    {
+      "id": "12",
+      "title": "پیش غذا",
+      "image": "/public/photo/HomeMenu/image (24).svg"
+    },
+    {
+      "id": "13",
+      "title": "دسر",
+      "image": "/public/photo/HomeMenu/image (25).svg"
+    },
+    {
+      "id": "14",
+      "title": "نوشیدنی",
+      "image": "/public/photo/HomeMenu/image (26).svg"
+    }
+  ],
+  "address": [
+    {
+      "shobeh": "شعبه ونک",
+      "address": "میدان ونک، خیابان فردوسی، نبش کوچه نیلوفر، پلاک ۲۶",
+      "image": "/public/photo/tarkineh/image (30).png",
+      "id": "9b27"
+    },
+    {
+      "shobeh": " شعبه اقدسیه",
+      "address": "خیابان اقدسیه، نرسیده به میدان خیام، پلاک ۸",
+      "image": "/public/photo/tarkineh/image (31).png",
+      "id": "43db"
+    },
+    {
+      "shobeh": " شعبه چالوس",
+      "address": "چالوس، خیابان ۱۷ شهریور، بعد کوچه کوروش، جنب داروخانه دکتر میلانی",
+      "image": "/public/photo/tarkineh/image (32).png",
+      "id": "2c70"
+    },
+    {
+      "shobeh": " شعبه اکباتان",
+      "address": "شهرک اکباتان، فاز ۳، مجتمع تجاری کوروش، طبقه سوم",
+      "image": "/public/photo/tarkineh/image (33).png",
+      "id": "5326"
+    }
+  ],
+  "foods": [
+    {
+      "id": "15",
+      "name": "دلمه برگ",
+      "price": 25000,
+      "discount_percentage": 10,
+      "price_after_discount": 22500,
+      "rating": 4.5,
+      "reviews_count": 100,
+      "image": "/public/photo/food/دلمه برگ.png"
+    },
+    {
+      "id": "16",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "17",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "18",
+      "name": "پیتزا قارچ",
+      "price": 45000,
+      "discount_percentage": 20,
+      "price_after_discount": 36000,
+      "rating": 4.8,
+      "reviews_count": 200,
+      "image": "/public/photo/food/پیتزا قارچ.png"
+    },
+    {
+      "id": "19",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "20",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "21",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "22",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "23",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "24",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    }
+  ],
+  "foods2": [
+    {
+      "id": "25",
+      "name": "پنینی اسفناج",
+      "price": 32000,
+      "discount_percentage": 10,
+      "price_after_discount": 28800,
+      "rating": 4.4,
+      "reviews_count": 90,
+      "image": "/public/photo/food/پنینی اسفناج.png"
+    },
+    {
+      "id": "26",
+      "name": "پیتزا پپرونی",
+      "price": 48000,
+      "discount_percentage": 18,
+      "price_after_discount": 39360,
+      "rating": 4.6,
+      "reviews_count": 175,
+      "image": "/public/photo/food/پیتزا پرونی.png"
+    },
+    {
+      "id": "27",
+      "name": "راتاتویی",
+      "price": 27000,
+      "discount_percentage": 12,
+      "price_after_discount": 23760,
+      "rating": 4.2,
+      "reviews_count": 65,
+      "image": "/public/photo/food/راتاتویی.png"
+    },
+    {
+      "id": "28",
+      "name": "بروانی بادمجان",
+      "price": 33000,
+      "discount_percentage": 10,
+      "price_after_discount": 29700,
+      "rating": 4.5,
+      "reviews_count": 110,
+      "image": "/public/photo/food/بورانی بادمجان.png"
+    },
+    {
+      "id": "29",
+      "name": "پنینی اسفناج",
+      "price": 32000,
+      "discount_percentage": 10,
+      "price_after_discount": 28800,
+      "rating": 4.4,
+      "reviews_count": 90,
+      "image": "/public/photo/food/پنینی اسفناج.png"
+    },
+    {
+      "id": "30",
+      "name": "پیتزا پپرونی",
+      "price": 48000,
+      "discount_percentage": 18,
+      "price_after_discount": 39360,
+      "rating": 4.6,
+      "reviews_count": 175,
+      "image": "/public/photo/food/پیتزا پرونی.png"
+    },
+    {
+      "id": "31",
+      "name": "راتاتویی",
+      "price": 27000,
+      "discount_percentage": 12,
+      "price_after_discount": 23760,
+      "rating": 4.2,
+      "reviews_count": 65,
+      "image": "/public/photo/food/راتاتویی.png"
+    },
+    {
+      "id": "32",
+      "name": "بروانی بادمجان",
+      "price": 33000,
+      "discount_percentage": 10,
+      "price_after_discount": 29700,
+      "rating": 4.5,
+      "reviews_count": 110,
+      "image": "/public/photo/food/بورانی بادمجان.png"
+    }
+  ],
+  "foods3": [
+    {
+      "id": "33",
+      "name": "لازانیا",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/لازانیا.png"
+    },
+    {
+      "id": "34",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "35",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    },
+    {
+      "id": "36",
+      "name": "سوشی",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/سوشی.png"
+    },
+    {
+      "id": "37",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "38",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    },
+    {
+      "id": "39",
+      "name": "سوشی",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/سوشی.png"
+    },
+    {
+      "id": "40",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "41",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    }
+  ],
+  "photo2": [
+    {
+      "id": "42",
+      "address": "شهرک اکباتان  فاز3 مجتمع تجاری کوروش طبقه سوم ",
+      "number": "021-3356891",
+      "image": "/public/photo/tarkineh3/1.png",
+      "work": "همه‌روزه از ساعت ۱۲  الی ۲۳ "
+    },
+    {
+      "id": "43",
+      "address": "چالوس خیابان17 شهریور بعد کوچه کوروش جنب داروخانه دکتر میلانی",
+      "number": "021-55211347",
+      "image": "/public/photo/tarkineh3/2.png",
+      "work": "همه‌روزه از ساعت ۱۲  الی ۲۳ "
+    },
+    {
+      "id": "44",
+      "address": "خیابان اقدیسه نرسیده به میدان خیام پلاک 8",
+      "number": "021-9825478",
+      "image": "/public/photo/tarkineh3/3.png",
+      "work": "همه‌روزه از ساعت ۱۲  الی ۲۳ "
+    },
+    {
+      "id": "45",
+      "address": "میدان ونک خیابان فردوسی نبش کوچه نیلوفر پلاک26",
+      "number": "021-451258",
+      "image": "/public/photo/tarkineh3/4.png",
+      "work": "همه‌روزه از ساعت ۱۲  الی ۲۳ "
+    }
+  ],
+  "comments": [
+    {
+      "name": "سردار وظیفه",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس-2.png",
+      "id": "4232"
+    },
+    {
+      "name": "سردار وظیفه",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس-3.png",
+      "id": "4fa7"
+    },
+    {
+      "name": "آرزو محمدعلیزاده",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس.png",
+      "id": "6ea5"
+    },
+    {
+      "name": "سردار وظیفه",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس-2.png",
+      "id": "a747"
+    },
+    {
+      "name": "سردار وظیفه",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس-3.png",
+      "id": "77eb"
+    },
+    {
+      "name": "آرزو محمدعلیزاده",
+      "comment": "از با صفا بودن شعبه اکباتان هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اکباتان رستوران‌های ترخینه واقعا تشکر میکنم.",
+      "rating": 4,
+      "date": "۲۳ اسفند ۱۴۰۱",
+      "image": "/public/photo/comments/عکس.png",
+      "id": "f5ad"
+    }
+  ],
+  "iranianfood": [
+    {
+      "name": "کشک بادمجان",
+      "ingredients": [
+        "بادمجان",
+        "کشک",
+        "نعناع خشک",
+        "مغز گردو",
+        "سیر",
+        "پیاز"
+      ],
+      "price": 95000,
+      "discount": 35,
+      "original_price": 180000,
+      "image": "/public/photo/food/irani-1.png",
+      "id": "0f7d"
+    },
+    {
+      "name": "کوفته برنجی",
+      "ingredients": [
+        "برنج",
+        "سبزی کوفته",
+        "لپه",
+        "آرد نخودچی",
+        "گردو",
+        "زرشک",
+        "آلو",
+        "پیاز"
+      ],
+      "price": 145000,
+      "image": "/public/photo/food/irani-2.png",
+      "id": "e897"
+    },
+    {
+      "name": "باقلاقاتوق",
+      "ingredients": [
+        "پاچ باقلا",
+        "شوید خشک",
+        "کره",
+        "سیر",
+        "تخم مرغ"
+      ],
+      "price": 205000,
+      "discount": 30,
+      "original_price": 292857,
+      "image": "/public/photo/food/irani-3.png",
+      "id": "a7de"
+    },
+    {
+      "name": "میرزا قاسمی",
+      "ingredients": [
+        "بادمجان",
+        "گوجه فرنگی",
+        "تخم مرغ",
+        "سیر",
+        "رب گوجه فرنگی"
+      ],
+      "price": 165000,
+      "discount": 10,
+      "original_price": 180000,
+      "image": "/public/photo/food/irani-4.png",
+      "id": "1af1"
+    },
+    {
+      "name": "کله جوش",
+      "ingredients": [
+        "کشک",
+        "گردو",
+        "پیاز",
+        "نعناع خشک"
+      ],
+      "price": 210000,
+      "discount": 5,
+      "original_price": 221053,
+      "image": "/public/photo/food/irani-4.png",
+      "id": "5e92"
+    },
+    {
+      "name": "فلافل",
+      "ingredients": [
+        "نخود",
+        "پیاز",
+        "تخم گشنیز",
+        "سیر",
+        "جعفری",
+        "سیب زمینی"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/irani-5.png",
+      "id": "d474"
+    },
+    {
+      "name": "بادمجان شکم‌پر",
+      "ingredients": [
+        "بادمجان",
+        "پیاز",
+        "گوجه فرنگی",
+        "سبزی خشک"
+      ],
+      "price": 150000,
+      "discount": 18,
+      "original_price": 182926,
+      "image": "/public/photo/food/irani-6.png",
+      "id": "a4dd"
+    },
+    {
+      "name": "بورانی بادمجان",
+      "ingredients": [
+        "بادمجان قلمی",
+        "ماست چکیده",
+        "سیر",
+        "روغن زیتون",
+        "مغز گردو"
+      ],
+      "price": 170000,
+      "discount": 22,
+      "original_price": 217949,
+      "image": "/public/photo/food/irani-7.png",
+      "id": "4bca"
+    },
+    {
+      "name": "دلمه برگ مو",
+      "ingredients": [
+        "پیاز",
+        "برنج",
+        "لپه",
+        "سبزی دلمه",
+        "سرکه"
+      ],
+      "price": 195000,
+      "image": "/public/photo/food/irani-8.png",
+      "id": "533f"
+    },
+    {
+      "name": "دلمه برگ کلم",
+      "ingredients": [
+        "کلم برگ",
+        "برنج",
+        "لپه پخته",
+        "پیاز",
+        "سبزی معطر",
+        "رب"
+      ],
+      "price": 220000,
+      "discount": 8,
+      "original_price": 239130,
+      "image": "/public/photo/food/irani-9.png",
+      "id": "06c9"
+    },
+    {
+      "name": "کوکو سیب‌زمینی و عدس",
+      "ingredients": [
+        "عدس",
+        "سیب زمینی",
+        "پیاز متوسط",
+        "تخم مرغ",
+        "پودر سیر",
+        "آرد سوخاری"
+      ],
+      "price": 135000,
+      "discount": 20,
+      "original_price": 168750,
+      "image": "/public/photo/food/irani-9.png",
+      "id": "4f67"
+    },
+    {
+      "name": "کوکو سبزی",
+      "ingredients": [
+        "تخم مرغ",
+        "گردو",
+        "سیر",
+        "آرد",
+        "روغن مایع",
+        "سبزی کوکویی"
+      ],
+      "price": 300000,
+      "discount": 10,
+      "original_price": 333333,
+      "image": "/public/photo/food/irani-10.png",
+      "id": "47ab"
+    }
+  ],
+  "unirainanfood": [
+    {
+      "name": "پاستا بلونز",
+      "ingredients": [
+        "اسپاگتی",
+        "گوشت چرخ کرده",
+        "هویج",
+        "ساقه کرفس",
+        "گوجه فرنگی",
+        "سیر",
+        "پیاز",
+        "پنیر پارمزان",
+        "روغن زیتون"
+      ],
+      "price": 170000,
+      "discount": 12,
+      "original_price": 193182,
+      "image": "/public/photo/food/uniranian-1.png",
+      "id": "8fc3"
+    },
+    {
+      "name": "پاستا سبزیجات",
+      "ingredients": [
+        "پاستا",
+        "قارچ",
+        "گوجه",
+        "کدوی خوردشده",
+        "پیاز خلالی‌شده"
+      ],
+      "price": 175000,
+      "discount": 20,
+      "original_price": 218750,
+      "image": "/public/photo/food/uniranian-2.png",
+      "id": "9edb"
+    },
+    {
+      "name": "لازانیا",
+      "ingredients": [
+        "لازانیا",
+        "قارچ",
+        "ریحان تازه",
+        "جعفری تازه",
+        "گوجه فرنگی",
+        "پنیر پیتزا",
+        "بادمجان"
+      ],
+      "price": 150000,
+      "image": "/public/photo/food/uniranian-3.png",
+      "id": "a40c"
+    },
+    {
+      "name": "راتاتویی",
+      "ingredients": [
+        "بادمجان",
+        "گوجه فرنگی",
+        "کدو سبز",
+        "پیاز",
+        "رب گوجه فرنگی",
+        "روغن زیتون",
+        "پنیر پارمزان"
+      ],
+      "price": 180000,
+      "discount": 45,
+      "original_price": 327273,
+      "image": "/public/photo/food/uniranian-4.png",
+      "id": "37a8"
+    },
+    {
+      "name": "پاکورا سبزیجات",
+      "ingredients": [
+        "گرام ماسالا",
+        "پودر کاری",
+        "سیر له شده",
+        "گشنیز خرد شده"
+      ],
+      "price": 125000,
+      "discount": 8,
+      "original_price": 135870,
+      "image": "/public/photo/food/uniranian-5.png",
+      "id": "75d7"
+    },
+    {
+      "name": "سوشی",
+      "ingredients": [
+        "جلبک دریایی/ نوری",
+        "برنج کته",
+        "سرکه سفید (یا سرکه برنج)",
+        "شکر",
+        "نمک دریا"
+      ],
+      "price": 100000,
+      "discount": 15,
+      "original_price": 117647,
+      "image": "/public/photo/food/uniranian-6.png",
+      "id": "dcc4"
+    },
+    {
+      "name": "پالاک پنیر",
+      "ingredients": [
+        "پنیر",
+        "اسفناج",
+        "گوجه",
+        "پیاز",
+        "سیر"
+      ],
+      "price": 200000,
+      "discount": 15,
+      "original_price": 235294,
+      "image": "/public/photo/food/uniranian-7.png",
+      "id": "a5a2"
+    },
+    {
+      "name": "کالزونه اسفناج",
+      "ingredients": [
+        "اسفناج",
+        "قارچ",
+        "پنیر موزارلا یا پنیر پیتزا",
+        "پنیر ریکوتا یا پنیر خامه ای",
+        "پیاز",
+        "سیر",
+        "روغن زیتون"
+      ],
+      "price": 190000,
+      "discount": 17,
+      "original_price": 228916,
+      "image": "/public/photo/food/uniranian-8.png",
+      "id": "3a5d"
+    }
+  ],
+  "pizza": [
+    {
+      "name": "پیتزا بادمجان و زیتون",
+      "ingredients": [
+        "بادمجان کوچک",
+        "روغن زیتون",
+        "پنیر موزارلا",
+        "پنیر پارمزان",
+        "برگ ریحان",
+        "گوجه فرنگی",
+        "سس گوجه فرنگی"
+      ],
+      "price": 150000,
+      "image": "/public/photo/food/pizza-1.png",
+      "id": "122b"
+    },
+    {
+      "name": "پیتزا روکولا",
+      "ingredients": [
+        "اسفناج",
+        "سبزی روکولا",
+        "آرد",
+        "پودر مایه خمیر",
+        "روغن زیتون",
+        "خردل",
+        "سیر",
+        "پنیر موزارلا و پارمسان",
+        "گوجه گیلاسی",
+        "سس فلفل سبز تند"
+      ],
+      "price": 195000,
+      "discount": 12,
+      "original_price": 221591,
+      "image": "/public/photo/food/pizza-2.png",
+      "id": "81f1"
+    },
+    {
+      "name": "پیتزا قارچ",
+      "ingredients": [
+        "قارچ",
+        "فلفل دلمه ای",
+        "رب گوجه فرنگی",
+        "پودر سیر",
+        "آویشن",
+        "مرزه",
+        "پنیر پیتزا گیاهی"
+      ],
+      "price": 215000,
+      "discount": 25,
+      "original_price": 286667,
+      "image": "/public/photo/food/pizza-3.png",
+      "id": "b40d"
+    },
+    {
+      "name": "پیتزا سبزیجات و خامه",
+      "ingredients": [
+        "نخود فرنگی پخته شده",
+        "ذرت نیم پز",
+        "فلفل دلمه‌ای رنگی",
+        "قارچ",
+        "سیر یا پیازچه خردشده"
+      ],
+      "price": 210000,
+      "discount": 21,
+      "original_price": 265823,
+      "image": "/public/photo/food/pizza-4.png",
+      "id": "b299"
+    },
+    {
+      "name": "پیتزا اسفناج",
+      "ingredients": [
+        "اسفناج تازه",
+        "پیاز",
+        "سیر",
+        "پنیر پیتزا",
+        "قارچ"
+      ],
+      "price": 280000,
+      "discount": 10,
+      "original_price": 311111,
+      "image": "/public/photo/food/pizza-5.png",
+      "id": "489f"
+    },
+    {
+      "name": "پیتزا پپرونی",
+      "ingredients": [
+        "تافو",
+        "فلفل قرمز خشک شده",
+        "پودر دانه‌های خردل",
+        "دانه رازیانه",
+        "پاپریکا دودی",
+        "پودر سیر",
+        "شکر نارگیل",
+        "پودر بادیان رومی"
+      ],
+      "price": 100000,
+      "image": "/public/photo/food/pizza-6.png",
+      "id": "5ed9"
+    },
+    {
+      "name": "پیتزا پنیر",
+      "ingredients": [
+        "نان پیتزا",
+        "پنیر پیتزا",
+        "سس باربیکیو",
+        "گوجه فرنگی",
+        "سس کچاپ",
+        "سیر",
+        "روغن زیتون"
+      ],
+      "price": 125000,
+      "discount": 16,
+      "original_price": 148810,
+      "image": "/public/photo/food/pizza-7.png",
+      "id": "aa80"
+    },
+    {
+      "name": "پیتزا مارگاریتا",
+      "ingredients": [
+        "گوجه فرنگی",
+        "ریحان",
+        "سیر",
+        "پنیر پیتزا"
+      ],
+      "price": 165000,
+      "discount": 13,
+      "original_price": 189655,
+      "image": "/public/photo/food/pizza-8.png",
+      "id": "f2e8"
+    }
+  ],
+  "sandavige": [
+    {
+      "name": "ساندویچ سوسیس کوکتل",
+      "ingredients": [
+        "سوسیس گیاهی",
+        "پیاز",
+        "سیب زمینی",
+        "رب گوجه فرنگی"
+      ],
+      "price": 205000,
+      "discount": 35,
+      "original_price": 315385,
+      "image": "/public/photo/food/san-1.png",
+      "id": "6f6a"
+    },
+    {
+      "name": "ساندویچ کتلت مخصوص",
+      "ingredients": [
+        "سیب زمینی",
+        "لوبیا قرمز",
+        "بلغور گندم",
+        "نعناع خشک",
+        "پودر زیره",
+        "پودر جوز هندی",
+        "گوجه فرنگی",
+        "روغن زیتون"
+      ],
+      "price": 230000,
+      "discount": 18,
+      "original_price": 280488,
+      "image": "/public/photo/food/san-2.png",
+      "id": "0d82"
+    },
+    {
+      "name": "پنینی اسفناج",
+      "ingredients": [
+        "قارچ",
+        "اسفناج",
+        "پیاز",
+        "پنیر پیتزا",
+        "خامه",
+        "پودر پاپریکا",
+        "گردو",
+        "سرکه بالزامیک",
+        "سس مایونز"
+      ],
+      "price": 210000,
+      "discount": 15,
+      "original_price": 247059,
+      "image": "/public/photo/food/san-3.png",
+      "id": "2b1e"
+    },
+    {
+      "name": "ساندویچ کتلت کدو سبز",
+      "ingredients": [
+        "کدو سبز",
+        "هویج",
+        "سیب زمینی",
+        "پیاز"
+      ],
+      "price": 190000,
+      "image": "/public/photo/food/san-4.png",
+      "id": "695b"
+    }
+  ],
+  "textus": [
+    {
+      "name": "شعبه اقدسیه",
+      "address": "خیابان اقدسیه، نرسیده به میدان خیام، پلاک ۸",
+      "phone": [
+        "021-54891254",
+        "021-54891255"
+      ],
+      "working_hours": "همه‌روزه از ساعت ۱۲ تا ۲۳ بجز روز‌های تعطیل",
+      "image": "/public/photo/tarkineh3/1.png",
+      "id": "2a13"
+    },
+    {
+      "name": "شعبه ونک",
+      "address": "میدان ونک، خیابان فردوسی، نبش کوچه نیلوفر، پلاک ۲۶",
+      "phone": [
+        "021-54891256",
+        "021-54891257"
+      ],
+      "working_hours": "همه‌روزه از ساعت ۱۲ تا ۲۳ بجز روز‌های تعطیل",
+      "image": "/public/photo/tarkineh3/2.png",
+      "id": "e088"
+    },
+    {
+      "name": "شعبه اکباتان",
+      "address": "شهرک اکباتان، فاز ۳، مجتمع تجاری کوروش، طبقه سوم",
+      "phone": [
+        "021-54891250",
+        "021-54891251"
+      ],
+      "working_hours": "همه‌روزه از ساعت ۱۲ تا ۲۳ بجز روز‌های تعطیل",
+      "image": "/public/photo/tarkineh3/3.png",
+      "id": "b11d"
+    },
+    {
+      "name": "شعبه چالوس",
+      "address": "چالوس، خیابان ۱۷ شهریور، بعد کوچه کوروش، جنب داروخانه دکتر میلانی",
+      "phone": [
+        "021-54891252",
+        "021-54891253"
+      ],
+      "working_hours": "همه‌روزه از ساعت ۱۲ تا ۲۳ بجز روز‌های تعطیل",
+      "image": "/public/photo/tarkineh3/4.png",
+      "id": "11d9"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "question": "ترخینه چه امکانات متفاوتی داره؟",
+      "answer": "وبسایت سفارش غذای رستوران‌های زنجیره‌ای ترخینه با اتصال مستقیم به نرم افزار اتوماسیون شعبات رستوران، امکان اشتباهات هنگام ثبت سفارش آنلاین غذا و همچنین زمان مورد نیاز برای آماده سازی و تحویل آن را به حداقل ممکن می‌رسونه."
+    },
+    {
+      "id": "2",
+      "question": "چطور می‌تونم در ترخینه حساب کاربری ایجاد کنم؟",
+      "answer": "خیلی ساده، پس از انتخاب غذای مورد علاقه‌تان از منوی رستوران، هنگام ثبت سفارش با وارد کردن شماره تلفن همراه یک پیامک حاوی کد تایید برای شما ارسال و با وارد کردن کد تایید، ثبت نام شما تکمیل می‌شه. یا می‌تونید در صفحه اصلی سایت روی گزینه ورود کلیک کنید."
+    },
+    {
+      "id": "3",
+      "question": "سابقه و لیست خریدهای قبلی‌ام رو کجا ببینم؟",
+      "answer": "با ورود به حساب کاربری و کلیک روی گزینه سفارشات قبلی، سابقه تمام خریدهای شما نمایش داده می‌شه."
+    },
+    {
+      "id": "4",
+      "question": "چه راه‌هایی برای پرداخت دارم؟",
+      "answer": "هنگام ثبت سفارش غذا می‌تونید روش پرداخت دلخواه خودتون رو انتخاب کنید؛ آنلاین و یا نقدی در هنگام تحویل سفارش به‌صورت حضوری."
+    },
+    {
+      "id": "5",
+      "question": "آیا قیمت در منوی وبسایت ترخینه با قیمت منوی شعبات رستوران یکسان است؟",
+      "answer": "بله. قیمت منوی وبسایت ترخینه دقیقا مطابق با قیمت منوی شعب رستوران است و در صورت تغییر قیمت از طرف رستوران، این تغییر در وبسایت ترخینه بلافاصله قابل مشاهده است."
+    },
+    {
+      "id": "6",
+      "question": "چطور می‌تونم از اعتبار هدیه و تخفیف استفاده کنم؟",
+      "answer": "برای استفاده از کد تخفیف می‌تونید به سادگی کد رو در سبد خرید، در قسمت مشخص‌شده وارد کنید. اعتبار هدیه هنگام انتخاب روش پرداخت برای شما نمایش داده می‌شه و در صورت تمایل می‌تونید ازش استفاده کنید."
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "title": "حداقل سفارش",
+      "description": "حداقل سفارشات در رستوران‌های ترخینه، مبلغ ۵۰.۰۰۰ تومان است. برای ثبت، پردازش و ارسال سفارشات، باید حداقل این مبلغ سفارش داده شود. در غیر اینصورت، سفارش ثبت نخواهد شد."
+    },
+    {
+      "id": "2",
+      "title": "فاصله تحویل",
+      "description": "ترخینه در ارسال سفارشات به نقاط دور محدودیت دارد و حداکثر فاصله از رستوران‌های زنجیره‌ای ترخینه برای ارسال کالا، ۶ کیلومتر است. لطفاً قبل از ثبت سفارش، نزدیک‌ترین شعبه به محل ارسال را انتخاب کنید و از رعایت حداکثر فاصله اطمینان حاصل فرمایید."
+    },
+    {
+      "id": "3",
+      "title": "زمان تحویل",
+      "description": "جدول زمانی تخمینی تحویل در زمان ثبت سفارش به اطلاع شما خواهد رسید. این زمان ممکن است تحت تأثیر عواملی مانند ترافیک، آب و هوا یا شلوغی رستوران تغییر کند. لطفاً در صورت تأخیر صبور باشید."
+    },
+    {
+      "id": "4",
+      "title": "گزینه‌های پرداخت",
+      "description": "ما گزینه‌های پرداخت مختلفی را می‌پذیریم، از جمله پرداخت اینترنتی، کارت‌های اعتباری یا پول نقد. لطفاً قبل از تکمیل سفارش، روش پرداخت مورد نظر خود را انتخاب و تأیید نمایید."
+    },
+    {
+      "id": "5",
+      "title": "دقت سفارش",
+      "description": "لطفاً قبل از ارسال، از دقیق بودن تمام جزئیات سفارش خود از جمله موارد منو، دستورالعمل‌های خاص و اطلاعات تماس اطمینان حاصل کنید تا اختلالی در فرآیند پردازش و تحویل ایجاد نشود."
+    },
+    {
+      "id": "6",
+      "title": "شرایط لغو سفارش",
+      "description": "شما می‌توانید با تماس مستقیم با هر شعبه از رستوران‌های زنجیره‌ای ترخینه، سفارش خود را لغو کنید. لطفاً توجه داشته باشید که امکان لغو بعد از آماده‌سازی غذا وجود ندارد."
+    },
+    {
+      "id": "7",
+      "title": "شرایط بازگشت سفارش",
+      "description": "اگر سفارش شما انتظارات شما را برآورده نمی‌کند، لطفاً بلافاصله با ما تماس بگیرید تا در اسرع وقت مشکل شما را پیگیری و رفع کنیم."
+    },
+    {
+      "id": "8",
+      "title": "تخفیفات",
+      "description": "هر‌گونه تخفیف یا برنامه‌های وفاداری ممکن است شرایط خاصی داشته باشد که به‌صورت واضح در وب‌سایت درج شده‌اند."
+    }
+  ],
+  "privacy": [
+    {
+      "id": "1",
+      "heading": "تعهد به حریم خصوصی",
+      "content": "ترخینه متعهد می‌شود حریم خصوصی شما را حفظ کند و به آن احترام بگذارد. استفاده از خدمات ما به‌منزله‌ی پذیرش سیاست‌های حریم خصوصی وب‌سایت ترخینه است."
+    },
+    {
+      "id": "2",
+      "heading": "اطلاعات مورد نیاز",
+      "content": "برای پردازش و ارسال سفارش‌ها، به اطلاعاتی مانند نام، شماره تلفن همراه، تاریخ تولد، نشانی، و سایر اطلاعاتی که شما ارائه می‌دهید نیاز داریم."
+    },
+    {
+      "id": "3",
+      "heading": "نحوه جمع‌آوری اطلاعات",
+      "content": "اطلاعات از طریق سفارش به‌عنوان مهمان، ایجاد حساب کاربری، و فرم‌های درخواست نمایندگی جمع‌آوری می‌شوند."
+    },
+    {
+      "id": "4",
+      "heading": "اهمیت شماره تلفن همراه",
+      "content": "شماره تلفن همراه به‌عنوان نام کاربری شما عمل می‌کند و برای ارسال کد تأیید، بازیابی رمز عبور و اطلاع‌رسانی‌ها استفاده می‌شود."
+    },
+    {
+      "id": "5",
+      "heading": "اطلاعات مرورگر شما",
+      "content": "ما اطلاعاتی مانند آی‌پی، نوع مرورگر، مدت زمان بازدید، و URL مرجع را برای تحلیل رفتار کاربران جمع‌آوری می‌کنیم که به شناسایی فردی منجر نمی‌شود."
+    },
+    {
+      "id": "6",
+      "heading": "استفاده از کوکی‌ها",
+      "content": "کوکی‌ها به ما کمک می‌کنند تجربه کاربری شما را بهبود دهیم، ورود مجدد بدون وارد کردن اطلاعات انجام شود، و وضعیت سفارش‌ها ذخیره شود."
+    },
+    {
+      "id": "7",
+      "heading": "امنیت اطلاعات",
+      "content": "ترخینه امنیت اطلاعات شخصی شما را بسیار جدی می‌گیرد و با استفاده از فناوری‌ها، سیاست‌ها و دستورالعمل‌های امنیتی، از اطلاعات شما محافظت می‌کند."
+    }
+  ],
+  "contacts": [],
+  "consultation": [
+    {
+      "id": "9506",
+      "fullname": "mahdibagherifard",
+      "phonenumber": "09171889720",
+      "date": "۱۴۰۴/۰۲/۲۴"
+    }
+  ],
+  "Representation": [],
+  "Appetizer": [
+    {
+      "name": "حمص کلاسیک",
+      "ingredients": [
+        "نخود پخته",
+        "روغن زیتون",
+        "ارده (طحینه)",
+        "سیر",
+        "آب لیمو تازه",
+        "نمک",
+        "پاپریکا برای تزئین"
+      ],
+      "price": 75000,
+      "image": "/public/photo/food/appetizer-1.png.jpg",
+      "id": "a101"
+    },
+    {
+      "name": "سالاد تبوله",
+      "ingredients": [
+        "بلغور ریز",
+        "جعفری خرد شده",
+        "گوجه فرنگی",
+        "نعناع تازه",
+        "پیاز",
+        "آب لیمو",
+        "روغن زیتون",
+        "نمک"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/appetizer-2.png.jpg",
+      "id": "a102"
+    },
+    {
+      "name": "نان سیر با پنیر",
+      "ingredients": [
+        "نان باگت",
+        "کره",
+        "سیر رنده شده",
+        "جعفری خرد شده",
+        "پنیر موزارلا"
+      ],
+      "price": 68000,
+      "image": "/public/photo/food/appetizer-3.png.jpg",
+      "id": "a103"
+    },
+    {
+      "name": "سیب‌زمینی تنوری با سس چدار",
+      "ingredients": [
+        "سیب‌زمینی",
+        "روغن زیتون",
+        "نمک و فلفل",
+        "سس پنیر چدار",
+        "پیازچه خرد شده"
+      ],
+      "price": 90000,
+      "image": "/public/photo/food/appetizer-4.png.jpg",
+      "id": "a104"
+    },
+    {
+      "name": "زیتون پر شده با پنیر",
+      "ingredients": [
+        "زیتون سبز درشت",
+        "پنیر خامه‌ای",
+        "فلفل قرمز خشک",
+        "ریحان خرد شده"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/appetizer-5.png.jpg",
+      "id": "a105"
+    },
+    {
+      "name": "سوپ قارچ خامه‌ای",
+      "ingredients": [
+        "قارچ",
+        "پیاز",
+        "خامه",
+        "کره",
+        "آب مرغ",
+        "آرد",
+        "نمک و فلفل"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/appetizer-6.png.jpg",
+      "id": "a106"
+    },
+    {
+      "name": "کروکت مرغ و پنیر",
+      "ingredients": [
+        "مرغ پخته",
+        "پنیر چدار",
+        "آرد سوخاری",
+        "تخم مرغ",
+        "سیب‌زمینی پوره‌شده"
+      ],
+      "price": 98000,
+      "image": "/public/photo/food/appetizer-7.png.jpg",
+      "id": "a107"
+    },
+    {
+      "name": "بورک اسفناج و پنیر",
+      "ingredients": [
+        "خمیر یوفکا",
+        "اسفناج پخته",
+        "پنیر فتا",
+        "روغن زیتون",
+        "کنجد"
+      ],
+      "price": 88000,
+      "image": "/public/photo/food/appetizer-8.png.jpg",
+      "id": "a108"
+    },
+    {
+      "name": "سوپ گوجه فرنگی با ریحان",
+      "ingredients": [
+        "گوجه فرنگی تازه",
+        "ریحان",
+        "سیر",
+        "پیاز",
+        "روغن زیتون",
+        "نمک و فلفل"
+      ],
+      "price": 87000,
+      "image": "/public/photo/food/appetizer-9.png.jpg",
+      "id": "a109"
+    },
+    {
+      "name": "توپک پنیر با مغز گردو",
+      "ingredients": [
+        "پنیر خامه‌ای",
+        "پنیر گودا",
+        "گردو خرد شده",
+        "نعناع خشک",
+        "پودر فلفل شیرین"
+      ],
+      "price": 72000,
+      "image": "/public/photo/food/appetizer-10.png.jpg",
+      "id": "a110"
+    },
+    {
+      "name": "فلافل لبنانی",
+      "ingredients": [
+        "نخود",
+        "سیر",
+        "پیاز",
+        "گشنیز و جعفری",
+        "ادویه مخصوص فلافل",
+        "روغن سرخ‌کردنی"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/appetizer-11.png.jpg",
+      "id": "a111"
+    },
+    {
+      "name": "چوب پنیر سوخاری",
+      "ingredients": [
+        "پنیر موزارلا",
+        "آرد سفید",
+        "تخم‌مرغ",
+        "آرد سوخاری",
+        "ادویه مخصوص"
+      ],
+      "price": 92000,
+      "image": "/public/photo/food/appetizer-12.png.jpg",
+      "id": "a112"
+    }
+  ],
+  "Dessert": [
+    {
+      "name": "باقلوای ترکی",
+      "ingredients": [
+        "خمیر فیلو",
+        "گردو خرد شده",
+        "کره",
+        "شربت شکر",
+        "گلاب یا عطر هل"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/dessert-1.png.jpg",
+      "id": "d201"
+    },
+    {
+      "name": "پودینگ شکلات",
+      "ingredients": [
+        "شیر",
+        "پودر کاکائو",
+        "شکر",
+        "نشاسته ذرت",
+        "وانیل",
+        "خامه"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/dessert-2.png.jpg",
+      "id": "d202"
+    },
+    {
+      "name": "چیزکیک توت‌فرنگی",
+      "ingredients": [
+        "پنیر خامه‌ای",
+        "بیسکویت پودر شده",
+        "کره ذوب شده",
+        "شکر",
+        "توت‌فرنگی تازه",
+        "پوره توت‌فرنگی"
+      ],
+      "price": 120000,
+      "image": "/public/photo/food/dessert-3.png.jpg",
+      "id": "d203"
+    },
+    {
+      "name": "ژله میوه‌ای",
+      "ingredients": [
+        "پودر ژله",
+        "میوه تازه خرد شده",
+        "آب جوش",
+        "آب سرد"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/dessert-4.png.jpg",
+      "id": "d204"
+    },
+    {
+      "name": "کرم بروله",
+      "ingredients": [
+        "زرده تخم‌مرغ",
+        "شکر",
+        "وانیل",
+        "خامه",
+        "شکر برای کاراملی کردن رویه"
+      ],
+      "price": 110000,
+      "image": "/public/photo/food/dessert-5.png.jpg",
+      "id": "d205"
+    },
+    {
+      "name": "تیرامیسو کلاسیک",
+      "ingredients": [
+        "بیسکویت لیدی فینگر",
+        "پنیر ماسکارپونه",
+        "قهوه اسپرسو",
+        "تخم‌مرغ",
+        "شکر",
+        "پودر کاکائو"
+      ],
+      "price": 130000,
+      "image": "/public/photo/food/dessert-6.png.jpg",
+      "id": "d206"
+    },
+    {
+      "name": "پاناکوتا با سس تمشک",
+      "ingredients": [
+        "خامه",
+        "شکر",
+        "ژلاتین",
+        "وانیل",
+        "سس تمشک تازه"
+      ],
+      "price": 115000,
+      "image": "/public/photo/food/dessert-7.png.jpg",
+      "id": "d207"
+    },
+    {
+      "name": "بستنی وانیلی با سس شکلات",
+      "ingredients": [
+        "بستنی وانیلی",
+        "سس شکلات داغ",
+        "مغز گردو یا بادام",
+        "خامه زده‌شده"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/dessert-8.png.jpg",
+      "id": "d208"
+    },
+    {
+      "name": "رول دارچین",
+      "ingredients": [
+        "خمیر شیرین",
+        "شکر قهوه‌ای",
+        "پودر دارچین",
+        "کره",
+        "سس پنیر خامه‌ای"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/dessert-9.png.jpg",
+      "id": "d209"
+    }
+  ],
+  "Drink": [
+    {
+      "name": "موهیتو کلاسیک",
+      "ingredients": [
+        "نعناع تازه",
+        "آب لیمو",
+        "شکر",
+        "یخ",
+        "سودا یا آب گازدار"
+      ],
+      "price": 70000,
+      "image": "/public/photo/food/drink-1.png.jpg",
+      "id": "dr301"
+    },
+    {
+      "name": "آب پرتقال طبیعی",
+      "ingredients": [
+        "پرتقال تازه"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/drink-2.png.jpg",
+      "id": "dr302"
+    },
+    {
+      "name": "اسموتی توت‌فرنگی و موز",
+      "ingredients": [
+        "توت‌فرنگی",
+        "موز",
+        "ماست",
+        "عسل",
+        "یخ"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/drink-3.png.jpg",
+      "id": "dr303"
+    },
+    {
+      "name": "چای نعناع",
+      "ingredients": [
+        "چای سبز یا سیاه",
+        "نعناع تازه",
+        "آب داغ"
+      ],
+      "price": 40000,
+      "image": "/public/photo/food/drink-4.png.jpg",
+      "id": "dr304"
+    },
+    {
+      "name": "شیر موز",
+      "ingredients": [
+        "موز",
+        "شیر",
+        "شکر",
+        "یخ"
+      ],
+      "price": 55000,
+      "image": "/public/photo/food/drink-5.png.jpg",
+      "id": "dr305"
+    },
+    {
+      "name": "لیموناد خیار و نعناع",
+      "ingredients": [
+        "آب لیمو",
+        "خیار رنده‌شده",
+        "نعناع",
+        "یخ",
+        "شکر",
+        "آب سرد"
+      ],
+      "price": 75000,
+      "image": "/public/photo/food/drink-6.png.jpg",
+      "id": "dr306"
+    },
+    {
+      "name": "قهوه سرد (آیس کافی)",
+      "ingredients": [
+        "قهوه دم‌کرده",
+        "یخ",
+        "شیر یا خامه",
+        "شکر یا شربت"
+      ],
+      "price": 70000,
+      "image": "/public/photo/food/drink-7.png.jpg",
+      "id": "dr307"
+    },
+    {
+      "name": "چای ماسالا",
+      "ingredients": [
+        "چای سیاه",
+        "شیر",
+        "هل، دارچین، زنجبیل",
+        "شکر"
+      ],
+      "price": 65000,
+      "image": "/public/photo/food/drink-8.png.jpg",
+      "id": "dr308"
+    },
+    {
+      "name": "آب سیب طبیعی",
+      "ingredients": [
+        "سیب تازه"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/drink-9.png.jpg",
+      "id": "dr309"
+    },
+    {
+      "name": "نوشیدنی انرژی‌زا طبیعی",
+      "ingredients": [
+        "آب انار",
+        "آب لیمو",
+        "عسل",
+        "یخ",
+        "نعناع"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/drink-10.png.jpg",
+      "id": "dr310"
+    }
+  ],
+  "Search": [
+    {
+      "id": "15",
+      "name": "دلمه برگ",
+      "price": 25000,
+      "discount_percentage": 10,
+      "price_after_discount": 22500,
+      "rating": 4.5,
+      "reviews_count": 100,
+      "image": "/public/photo/food/دلمه برگ.png"
+    },
+    {
+      "id": "16",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "17",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "18",
+      "name": "پیتزا قارچ",
+      "price": 45000,
+      "discount_percentage": 20,
+      "price_after_discount": 36000,
+      "rating": 4.8,
+      "reviews_count": 200,
+      "image": "/public/photo/food/پیتزا قارچ.png"
+    },
+    {
+      "id": "19",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "20",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "21",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "22",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "23",
+      "name": "بادمجان شکم پر",
+      "price": 35000,
+      "discount_percentage": 15,
+      "price_after_discount": 29750,
+      "rating": 4.7,
+      "reviews_count": 150,
+      "image": "/public/photo/food/بادمجان شکم پر.png"
+    },
+    {
+      "id": "24",
+      "name": "کازونه اسفناج",
+      "price": 30000,
+      "discount_percentage": 5,
+      "price_after_discount": 28500,
+      "rating": 4.3,
+      "reviews_count": 80,
+      "image": "/public/photo/food/کازونه اسفناج.png"
+    },
+    {
+      "id": "33",
+      "name": "لازانیا",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/لازانیا.png"
+    },
+    {
+      "id": "34",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "35",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    },
+    {
+      "id": "36",
+      "name": "سوشی",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/سوشی.png"
+    },
+    {
+      "id": "37",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "38",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    },
+    {
+      "id": "39",
+      "name": "سوشی",
+      "price": 60000,
+      "discount_percentage": 10,
+      "price_after_discount": 54000,
+      "rating": 4.6,
+      "reviews_count": 120,
+      "image": "/public/photo/food/سوشی.png"
+    },
+    {
+      "id": "40",
+      "name": "راتاتویی ایتالیایی",
+      "price": 28000,
+      "discount_percentage": 12,
+      "price_after_discount": 24640,
+      "rating": 4.3,
+      "reviews_count": 70,
+      "image": "/public/photo/food/راتاتویی ایتالیایی.png"
+    },
+    {
+      "id": "41",
+      "name": "پاکورا سبزیجات",
+      "price": 22000,
+      "discount_percentage": 8,
+      "price_after_discount": 20240,
+      "rating": 4.4,
+      "reviews_count": 95,
+      "image": "/public/photo/food/پاکورا سبزیجات.png"
+    },
+    {
+      "name": "پیتزا بادمجان و زیتون",
+      "ingredients": [
+        "بادمجان کوچک",
+        "روغن زیتون",
+        "پنیر موزارلا",
+        "پنیر پارمزان",
+        "برگ ریحان",
+        "گوجه فرنگی",
+        "سس گوجه فرنگی"
+      ],
+      "price": 150000,
+      "image": "/public/photo/food/pizza-1.png",
+      "id": "122b"
+    },
+    {
+      "name": "پیتزا روکولا",
+      "ingredients": [
+        "اسفناج",
+        "سبزی روکولا",
+        "آرد",
+        "پودر مایه خمیر",
+        "روغن زیتون",
+        "خردل",
+        "سیر",
+        "پنیر موزارلا و پارمسان",
+        "گوجه گیلاسی",
+        "سس فلفل سبز تند"
+      ],
+      "price": 195000,
+      "discount": 12,
+      "original_price": 221591,
+      "image": "/public/photo/food/pizza-2.png",
+      "id": "81f1"
+    },
+    {
+      "name": "پیتزا قارچ",
+      "ingredients": [
+        "قارچ",
+        "فلفل دلمه ای",
+        "رب گوجه فرنگی",
+        "پودر سیر",
+        "آویشن",
+        "مرزه",
+        "پنیر پیتزا گیاهی"
+      ],
+      "price": 215000,
+      "discount": 25,
+      "original_price": 286667,
+      "image": "/public/photo/food/pizza-3.png",
+      "id": "b40d"
+    },
+    {
+      "name": "پیتزا سبزیجات و خامه",
+      "ingredients": [
+        "نخود فرنگی پخته شده",
+        "ذرت نیم پز",
+        "فلفل دلمه‌ای رنگی",
+        "قارچ",
+        "سیر یا پیازچه خردشده"
+      ],
+      "price": 210000,
+      "discount": 21,
+      "original_price": 265823,
+      "image": "/public/photo/food/pizza-4.png",
+      "id": "b299"
+    },
+    {
+      "name": "پیتزا اسفناج",
+      "ingredients": [
+        "اسفناج تازه",
+        "پیاز",
+        "سیر",
+        "پنیر پیتزا",
+        "قارچ"
+      ],
+      "price": 280000,
+      "discount": 10,
+      "original_price": 311111,
+      "image": "/public/photo/food/pizza-5.png",
+      "id": "489f"
+    },
+    {
+      "name": "پیتزا پپرونی",
+      "ingredients": [
+        "تافو",
+        "فلفل قرمز خشک شده",
+        "پودر دانه‌های خردل",
+        "دانه رازیانه",
+        "پاپریکا دودی",
+        "پودر سیر",
+        "شکر نارگیل",
+        "پودر بادیان رومی"
+      ],
+      "price": 100000,
+      "image": "/public/photo/food/pizza-6.png",
+      "id": "5ed9"
+    },
+    {
+      "name": "پیتزا پنیر",
+      "ingredients": [
+        "نان پیتزا",
+        "پنیر پیتزا",
+        "سس باربیکیو",
+        "گوجه فرنگی",
+        "سس کچاپ",
+        "سیر",
+        "روغن زیتون"
+      ],
+      "price": 125000,
+      "discount": 16,
+      "original_price": 148810,
+      "image": "/public/photo/food/pizza-7.png",
+      "id": "aa80"
+    },
+    {
+      "name": "پیتزا مارگاریتا",
+      "ingredients": [
+        "گوجه فرنگی",
+        "ریحان",
+        "سیر",
+        "پنیر پیتزا"
+      ],
+      "price": 165000,
+      "discount": 13,
+      "original_price": 189655,
+      "image": "/public/photo/food/pizza-8.png",
+      "id": "f2e8"
+    },
+    {
+      "name": "حمص کلاسیک",
+      "ingredients": [
+        "نخود پخته",
+        "روغن زیتون",
+        "ارده (طحینه)",
+        "سیر",
+        "آب لیمو تازه",
+        "نمک",
+        "پاپریکا برای تزئین"
+      ],
+      "price": 75000,
+      "image": "/public/photo/food/appetizer-1.png.jpg",
+      "id": "a101"
+    },
+    {
+      "name": "سالاد تبوله",
+      "ingredients": [
+        "بلغور ریز",
+        "جعفری خرد شده",
+        "گوجه فرنگی",
+        "نعناع تازه",
+        "پیاز",
+        "آب لیمو",
+        "روغن زیتون",
+        "نمک"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/appetizer-2.png.jpg",
+      "id": "a102"
+    },
+    {
+      "name": "نان سیر با پنیر",
+      "ingredients": [
+        "نان باگت",
+        "کره",
+        "سیر رنده شده",
+        "جعفری خرد شده",
+        "پنیر موزارلا"
+      ],
+      "price": 68000,
+      "image": "/public/photo/food/appetizer-3.png.jpg",
+      "id": "a103"
+    },
+    {
+      "name": "سیب‌زمینی تنوری با سس چدار",
+      "ingredients": [
+        "سیب‌زمینی",
+        "روغن زیتون",
+        "نمک و فلفل",
+        "سس پنیر چدار",
+        "پیازچه خرد شده"
+      ],
+      "price": 90000,
+      "image": "/public/photo/food/appetizer-4.png.jpg",
+      "id": "a104"
+    },
+    {
+      "name": "زیتون پر شده با پنیر",
+      "ingredients": [
+        "زیتون سبز درشت",
+        "پنیر خامه‌ای",
+        "فلفل قرمز خشک",
+        "ریحان خرد شده"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/appetizer-5.png.jpg",
+      "id": "a105"
+    },
+    {
+      "name": "سوپ قارچ خامه‌ای",
+      "ingredients": [
+        "قارچ",
+        "پیاز",
+        "خامه",
+        "کره",
+        "آب مرغ",
+        "آرد",
+        "نمک و فلفل"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/appetizer-6.png.jpg",
+      "id": "a106"
+    },
+    {
+      "name": "کروکت مرغ و پنیر",
+      "ingredients": [
+        "مرغ پخته",
+        "پنیر چدار",
+        "آرد سوخاری",
+        "تخم مرغ",
+        "سیب‌زمینی پوره‌شده"
+      ],
+      "price": 98000,
+      "image": "/public/photo/food/appetizer-7.png.jpg",
+      "id": "a107"
+    },
+    {
+      "name": "بورک اسفناج و پنیر",
+      "ingredients": [
+        "خمیر یوفکا",
+        "اسفناج پخته",
+        "پنیر فتا",
+        "روغن زیتون",
+        "کنجد"
+      ],
+      "price": 88000,
+      "image": "/public/photo/food/appetizer-8.png.jpg",
+      "id": "a108"
+    },
+    {
+      "name": "سوپ گوجه فرنگی با ریحان",
+      "ingredients": [
+        "گوجه فرنگی تازه",
+        "ریحان",
+        "سیر",
+        "پیاز",
+        "روغن زیتون",
+        "نمک و فلفل"
+      ],
+      "price": 87000,
+      "image": "/public/photo/food/appetizer-9.png.jpg",
+      "id": "a109"
+    },
+    {
+      "name": "توپک پنیر با مغز گردو",
+      "ingredients": [
+        "پنیر خامه‌ای",
+        "پنیر گودا",
+        "گردو خرد شده",
+        "نعناع خشک",
+        "پودر فلفل شیرین"
+      ],
+      "price": 72000,
+      "image": "/public/photo/food/appetizer-10.png.jpg",
+      "id": "a110"
+    },
+    {
+      "name": "فلافل لبنانی",
+      "ingredients": [
+        "نخود",
+        "سیر",
+        "پیاز",
+        "گشنیز و جعفری",
+        "ادویه مخصوص فلافل",
+        "روغن سرخ‌کردنی"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/appetizer-11.png.jpg",
+      "id": "a111"
+    },
+    {
+      "name": "چوب پنیر سوخاری",
+      "ingredients": [
+        "پنیر موزارلا",
+        "آرد سفید",
+        "تخم‌مرغ",
+        "آرد سوخاری",
+        "ادویه مخصوص"
+      ],
+      "price": 92000,
+      "image": "/public/photo/food/appetizer-12.png.jpg",
+      "id": "a112"
+    },
+    {
+      "name": "باقلوای ترکی",
+      "ingredients": [
+        "خمیر فیلو",
+        "گردو خرد شده",
+        "کره",
+        "شربت شکر",
+        "گلاب یا عطر هل"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/dessert-1.png.jpg",
+      "id": "d201"
+    },
+    {
+      "name": "پودینگ شکلات",
+      "ingredients": [
+        "شیر",
+        "پودر کاکائو",
+        "شکر",
+        "نشاسته ذرت",
+        "وانیل",
+        "خامه"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/dessert-2.png.jpg",
+      "id": "d202"
+    },
+    {
+      "name": "چیزکیک توت‌فرنگی",
+      "ingredients": [
+        "پنیر خامه‌ای",
+        "بیسکویت پودر شده",
+        "کره ذوب شده",
+        "شکر",
+        "توت‌فرنگی تازه",
+        "پوره توت‌فرنگی"
+      ],
+      "price": 120000,
+      "image": "/public/photo/food/dessert-3.png.jpg",
+      "id": "d203"
+    },
+    {
+      "name": "ژله میوه‌ای",
+      "ingredients": [
+        "پودر ژله",
+        "میوه تازه خرد شده",
+        "آب جوش",
+        "آب سرد"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/dessert-4.png.jpg",
+      "id": "d204"
+    },
+    {
+      "name": "کرم بروله",
+      "ingredients": [
+        "زرده تخم‌مرغ",
+        "شکر",
+        "وانیل",
+        "خامه",
+        "شکر برای کاراملی کردن رویه"
+      ],
+      "price": 110000,
+      "image": "/public/photo/food/dessert-5.png.jpg",
+      "id": "d205"
+    },
+    {
+      "name": "تیرامیسو کلاسیک",
+      "ingredients": [
+        "بیسکویت لیدی فینگر",
+        "پنیر ماسکارپونه",
+        "قهوه اسپرسو",
+        "تخم‌مرغ",
+        "شکر",
+        "پودر کاکائو"
+      ],
+      "price": 130000,
+      "image": "/public/photo/food/dessert-6.png.jpg",
+      "id": "d206"
+    },
+    {
+      "name": "پاناکوتا با سس تمشک",
+      "ingredients": [
+        "خامه",
+        "شکر",
+        "ژلاتین",
+        "وانیل",
+        "سس تمشک تازه"
+      ],
+      "price": 115000,
+      "image": "/public/photo/food/dessert-7.png.jpg",
+      "id": "d207"
+    },
+    {
+      "name": "بستنی وانیلی با سس شکلات",
+      "ingredients": [
+        "بستنی وانیلی",
+        "سس شکلات داغ",
+        "مغز گردو یا بادام",
+        "خامه زده‌شده"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/dessert-8.png.jpg",
+      "id": "d208"
+    },
+    {
+      "name": "رول دارچین",
+      "ingredients": [
+        "خمیر شیرین",
+        "شکر قهوه‌ای",
+        "پودر دارچین",
+        "کره",
+        "سس پنیر خامه‌ای"
+      ],
+      "price": 95000,
+      "image": "/public/photo/food/dessert-9.png.jpg",
+      "id": "d209"
+    },
+    {
+      "name": "موهیتو کلاسیک",
+      "ingredients": [
+        "نعناع تازه",
+        "آب لیمو",
+        "شکر",
+        "یخ",
+        "سودا یا آب گازدار"
+      ],
+      "price": 70000,
+      "image": "/public/photo/food/drink-1.png.jpg",
+      "id": "dr301"
+    },
+    {
+      "name": "آب پرتقال طبیعی",
+      "ingredients": [
+        "پرتقال تازه"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/drink-2.png.jpg",
+      "id": "dr302"
+    },
+    {
+      "name": "اسموتی توت‌فرنگی و موز",
+      "ingredients": [
+        "توت‌فرنگی",
+        "موز",
+        "ماست",
+        "عسل",
+        "یخ"
+      ],
+      "price": 85000,
+      "image": "/public/photo/food/drink-3.png.jpg",
+      "id": "dr303"
+    },
+    {
+      "name": "چای نعناع",
+      "ingredients": [
+        "چای سبز یا سیاه",
+        "نعناع تازه",
+        "آب داغ"
+      ],
+      "price": 40000,
+      "image": "/public/photo/food/drink-4.png.jpg",
+      "id": "dr304"
+    },
+    {
+      "name": "شیر موز",
+      "ingredients": [
+        "موز",
+        "شیر",
+        "شکر",
+        "یخ"
+      ],
+      "price": 55000,
+      "image": "/public/photo/food/drink-5.png.jpg",
+      "id": "dr305"
+    },
+    {
+      "name": "لیموناد خیار و نعناع",
+      "ingredients": [
+        "آب لیمو",
+        "خیار رنده‌شده",
+        "نعناع",
+        "یخ",
+        "شکر",
+        "آب سرد"
+      ],
+      "price": 75000,
+      "image": "/public/photo/food/drink-6.png.jpg",
+      "id": "dr306"
+    },
+    {
+      "name": "قهوه سرد (آیس کافی)",
+      "ingredients": [
+        "قهوه دم‌کرده",
+        "یخ",
+        "شیر یا خامه",
+        "شکر یا شربت"
+      ],
+      "price": 70000,
+      "image": "/public/photo/food/drink-7.png.jpg",
+      "id": "dr307"
+    },
+    {
+      "name": "چای ماسالا",
+      "ingredients": [
+        "چای سیاه",
+        "شیر",
+        "هل، دارچین، زنجبیل",
+        "شکر"
+      ],
+      "price": 65000,
+      "image": "/public/photo/food/drink-8.png.jpg",
+      "id": "dr308"
+    },
+    {
+      "name": "آب سیب طبیعی",
+      "ingredients": [
+        "سیب تازه"
+      ],
+      "price": 60000,
+      "image": "/public/photo/food/drink-9.png.jpg",
+      "id": "dr309"
+    },
+    {
+      "name": "نوشیدنی انرژی‌زا طبیعی",
+      "ingredients": [
+        "آب انار",
+        "آب لیمو",
+        "عسل",
+        "یخ",
+        "نعناع"
+      ],
+      "price": 80000,
+      "image": "/public/photo/food/drink-10.png.jpg",
+      "id": "dr310"
+    }
+  ],
+  "result": [
+    {
+      "0": {
+        "id": "16",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "1": {
+        "id": "19",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "2": {
+        "id": "21",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "3": {
+        "id": "23",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "4": {
+        "name": "بورک اسفناج و پنیر",
+        "ingredients": [
+          "خمیر یوفکا",
+          "اسفناج پخته",
+          "پنیر فتا",
+          "روغن زیتون",
+          "کنجد"
+        ],
+        "price": 88000,
+        "image": "/public/photo/food/appetizer-8.png.jpg",
+        "id": "a108"
+      },
+      "5": {
+        "name": "باقلوای ترکی",
+        "ingredients": [
+          "خمیر فیلو",
+          "گردو خرد شده",
+          "کره",
+          "شربت شکر",
+          "گلاب یا عطر هل"
+        ],
+        "price": 95000,
+        "image": "/public/photo/food/dessert-1.png.jpg",
+        "id": "d201"
+      },
+      "6": {
+        "name": "بستنی وانیلی با سس شکلات",
+        "ingredients": [
+          "بستنی وانیلی",
+          "سس شکلات داغ",
+          "مغز گردو یا بادام",
+          "خامه زده‌شده"
+        ],
+        "price": 80000,
+        "image": "/public/photo/food/dessert-8.png.jpg",
+        "id": "d208"
+      },
+      "id": "d7ec"
+    },
+    {
+      "0": {
+        "id": "16",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "1": {
+        "id": "19",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "2": {
+        "id": "21",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "3": {
+        "id": "23",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "4": {
+        "name": "بورک اسفناج و پنیر",
+        "ingredients": [
+          "خمیر یوفکا",
+          "اسفناج پخته",
+          "پنیر فتا",
+          "روغن زیتون",
+          "کنجد"
+        ],
+        "price": 88000,
+        "image": "/public/photo/food/appetizer-8.png.jpg",
+        "id": "a108"
+      },
+      "5": {
+        "name": "باقلوای ترکی",
+        "ingredients": [
+          "خمیر فیلو",
+          "گردو خرد شده",
+          "کره",
+          "شربت شکر",
+          "گلاب یا عطر هل"
+        ],
+        "price": 95000,
+        "image": "/public/photo/food/dessert-1.png.jpg",
+        "id": "d201"
+      },
+      "6": {
+        "name": "بستنی وانیلی با سس شکلات",
+        "ingredients": [
+          "بستنی وانیلی",
+          "سس شکلات داغ",
+          "مغز گردو یا بادام",
+          "خامه زده‌شده"
+        ],
+        "price": 80000,
+        "image": "/public/photo/food/dessert-8.png.jpg",
+        "id": "d208"
+      },
+      "id": "31bc"
+    },
+    {
+      "id": "3ce8"
+    },
+    {
+      "id": "74b7"
+    },
+    {
+      "0": {
+        "id": "33",
+        "name": "لازانیا",
+        "price": 60000,
+        "discount_percentage": 10,
+        "price_after_discount": 54000,
+        "rating": 4.6,
+        "reviews_count": 120,
+        "image": "/public/photo/food/لازانیا.png"
+      },
+      "1": {
+        "name": "لیموناد خیار و نعناع",
+        "ingredients": [
+          "آب لیمو",
+          "خیار رنده‌شده",
+          "نعناع",
+          "یخ",
+          "شکر",
+          "آب سرد"
+        ],
+        "price": 75000,
+        "image": "/public/photo/food/drink-6.png.jpg",
+        "id": "dr306"
+      },
+      "id": "e7b6"
+    },
+    {
+      "0": {
+        "id": "33",
+        "name": "لازانیا",
+        "price": 60000,
+        "discount_percentage": 10,
+        "price_after_discount": 54000,
+        "rating": 4.6,
+        "reviews_count": 120,
+        "image": "/public/photo/food/لازانیا.png"
+      },
+      "1": {
+        "name": "لیموناد خیار و نعناع",
+        "ingredients": [
+          "آب لیمو",
+          "خیار رنده‌شده",
+          "نعناع",
+          "یخ",
+          "شکر",
+          "آب سرد"
+        ],
+        "price": 75000,
+        "image": "/public/photo/food/drink-6.png.jpg",
+        "id": "dr306"
+      },
+      "id": "b0fb"
+    },
+    {
+      "id": "7a5e"
+    },
+    {
+      "id": "cee2"
+    },
+    {
+      "0": {
+        "id": "33",
+        "name": "لازانیا",
+        "price": 60000,
+        "discount_percentage": 10,
+        "price_after_discount": 54000,
+        "rating": 4.6,
+        "reviews_count": 120,
+        "image": "/public/photo/food/لازانیا.png"
+      },
+      "1": {
+        "name": "لیموناد خیار و نعناع",
+        "ingredients": [
+          "آب لیمو",
+          "خیار رنده‌شده",
+          "نعناع",
+          "یخ",
+          "شکر",
+          "آب سرد"
+        ],
+        "price": 75000,
+        "image": "/public/photo/food/drink-6.png.jpg",
+        "id": "dr306"
+      },
+      "id": "4407"
+    },
+    {
+      "id": "46ca"
+    },
+    {
+      "id": "4f1c"
+    },
+    {
+      "id": "e700"
+    },
+    {
+      "0": {
+        "id": "16",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "1": {
+        "id": "19",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "2": {
+        "id": "21",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "3": {
+        "id": "23",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "4": {
+        "name": "بورک اسفناج و پنیر",
+        "ingredients": [
+          "خمیر یوفکا",
+          "اسفناج پخته",
+          "پنیر فتا",
+          "روغن زیتون",
+          "کنجد"
+        ],
+        "price": 88000,
+        "image": "/public/photo/food/appetizer-8.png.jpg",
+        "id": "a108"
+      },
+      "5": {
+        "name": "باقلوای ترکی",
+        "ingredients": [
+          "خمیر فیلو",
+          "گردو خرد شده",
+          "کره",
+          "شربت شکر",
+          "گلاب یا عطر هل"
+        ],
+        "price": 95000,
+        "image": "/public/photo/food/dessert-1.png.jpg",
+        "id": "d201"
+      },
+      "6": {
+        "name": "بستنی وانیلی با سس شکلات",
+        "ingredients": [
+          "بستنی وانیلی",
+          "سس شکلات داغ",
+          "مغز گردو یا بادام",
+          "خامه زده‌شده"
+        ],
+        "price": 80000,
+        "image": "/public/photo/food/dessert-8.png.jpg",
+        "id": "d208"
+      },
+      "id": "642d"
+    },
+    {
+      "id": "1585"
+    },
+    {
+      "0": {
+        "id": "16",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "1": {
+        "id": "19",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "2": {
+        "id": "21",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "3": {
+        "id": "23",
+        "name": "بادمجان شکم پر",
+        "price": 35000,
+        "discount_percentage": 15,
+        "price_after_discount": 29750,
+        "rating": 4.7,
+        "reviews_count": 150,
+        "image": "/public/photo/food/بادمجان شکم پر.png"
+      },
+      "4": {
+        "name": "بورک اسفناج و پنیر",
+        "ingredients": [
+          "خمیر یوفکا",
+          "اسفناج پخته",
+          "پنیر فتا",
+          "روغن زیتون",
+          "کنجد"
+        ],
+        "price": 88000,
+        "image": "/public/photo/food/appetizer-8.png.jpg",
+        "id": "a108"
+      },
+      "5": {
+        "name": "باقلوای ترکی",
+        "ingredients": [
+          "خمیر فیلو",
+          "گردو خرد شده",
+          "کره",
+          "شربت شکر",
+          "گلاب یا عطر هل"
+        ],
+        "price": 95000,
+        "image": "/public/photo/food/dessert-1.png.jpg",
+        "id": "d201"
+      },
+      "6": {
+        "name": "بستنی وانیلی با سس شکلات",
+        "ingredients": [
+          "بستنی وانیلی",
+          "سس شکلات داغ",
+          "مغز گردو یا بادام",
+          "خامه زده‌شده"
+        ],
+        "price": 80000,
+        "image": "/public/photo/food/dessert-8.png.jpg",
+        "id": "d208"
+      },
+      "id": "3c84"
+    },
+    {
+      "id": "c9a4"
+    },
+    {
+      "id": "8d18"
+    },
+    {
+      "id": "a780"
+    },
+    {
+      "id": "a159"
+    },
+    {
+      "id": "09d8"
+    },
+    {
+      "id": "31d0"
+    },
+    {
+      "id": "3d72"
+    },
+    {
+      "0": {
+        "id": "33",
+        "name": "لازانیا",
+        "price": 60000,
+        "discount_percentage": 10,
+        "price_after_discount": 54000,
+        "rating": 4.6,
+        "reviews_count": 120,
+        "image": "/public/photo/food/لازانیا.png"
+      },
+      "1": {
+        "name": "لیموناد خیار و نعناع",
+        "ingredients": [
+          "آب لیمو",
+          "خیار رنده‌شده",
+          "نعناع",
+          "یخ",
+          "شکر",
+          "آب سرد"
+        ],
+        "price": 75000,
+        "image": "/public/photo/food/drink-6.png.jpg",
+        "id": "dr306"
+      },
+      "id": "31b3"
+    },
+    {
+      "id": "96d7"
+    },
+    {
+      "id": "13e1"
+    },
+    {
+      "id": "35ba"
+    },
+    {
+      "id": "db71"
+    },
+    {
+      "id": "6ed4"
+    }
+  ]
+  ,  "Homemenupictuer": [      {
+        "id": 1,
+        "title": "بشقاب غذای گرم و خوشمزه",
+        "image": "/public/photo/منوی ترخینه 1.png"
+      },
+      {
+        "id": 2,
+        "title": "پاستا با پستو و گوجه تازه",
+        "image": "/public/photo/منوی ترخینه 2.png"
+      },
+      {
+        "id": 3,
+        "title": "میوه‌های تازه در کاسه چوبی",
+        "image": "/public/photo/منوی ترخینه 3.png"
+      },
+      {
+        "id": 4,
+        "title": "فنجانی از قهوه داغ",
+        "image": "/public/photo/ترخینه گردی 4.png"
+      }]
+}
